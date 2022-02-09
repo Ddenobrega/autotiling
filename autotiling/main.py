@@ -4,12 +4,17 @@
 This script uses the i3ipc python module to switch the layout splith / splitv
 for the currently focused window, depending on its dimensions.
 It works on both sway and i3 window managers.
+__ Fork Credits __ :
+email: dcdenobrega@gmail.com
+Project: https://github.com/ddenobrega/autotiling
 
+
+__ Original Author __ :
 Inspired by https://github.com/olemartinorg/i3-alternating-layout
 
 Copyright: 2019-2021 Piotr Miller & Contributors
 e-mail: nwg.piotr@gmail.com
-Project: https://github.com/nwg-piotr/autotiling
+Project: https://github.com/nwg-piotr/autotiling 
 License: GPL3
 
 Dependencies: python-i3ipc>=2.0.1 (i3ipc-python)
